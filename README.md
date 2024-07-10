@@ -3,11 +3,11 @@
 "The objective of this project is to analyze the predominant environmental pollutant, CO2, and explore its underlying causes and sources. Additionally, I  developed a robust machine- learning model to assist stakeholders in mitigating its impact. My focus lies in creating a predictive model that empowers automobile designers to forecast CO2 emissions resulting from feature modifications. Furthermore, I aim to provide consumers with insights into the environmental consequences of their vehicle choices."
 
 ## EDA 
-Review the CO2_Prediction.ipynb and Project_Report_co2_emissions.docx files to understand the detailed data analyses I conducted to identify the problem.
+Review the "CO2_Prediction.ipynb" and "Project_Report_co2_emissions.docx" files to understand the detailed data analyses I conducted to identify the problem.
 
 ## STEPS TO GET THE PREDICTION OUTPUT and SHAP Explainations
 
- Download and Upload the target_encoder.pkl, scaler.pkl and best_model.pkl files in the Predictor.ipynb file:
+ Download and Upload the "target_encoder.pkl", "scaler.pkl" and "best_model.pkl" files in the "Predictor.ipynb" file ( code to upload these artifacts provided in the Predictor.ipynb file) :
 
  Load the files:
 

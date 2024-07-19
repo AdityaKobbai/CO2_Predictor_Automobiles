@@ -5,6 +5,8 @@
 ## EDA 
 Review the "CO2_Prediction.ipynb" and "Project_Report_co2_emissions.docx" files to understand the detailed data analyses I conducted to identify the problem.
 
+<img width="826" alt="Screenshot 2024-07-18 at 9 09 24 PM" src="https://github.com/user-attachments/assets/b2bdc6db-a117-4605-90cf-cd6ad0723b31">
+
 ## STEPS TO GET THE PREDICTION OUTPUT and SHAP Explainations
 
  Download and Upload the "target_encoder.pkl", "scaler.pkl" and "best_model.pkl" files in the "Predictor.ipynb" file ( code to upload these artifacts provided in the Predictor.ipynb file) :
